@@ -1,4 +1,4 @@
-# Getting Started with Data Anlytics with SQL and Python
+# Getting Started with Data Analytics with SQL and Python
 
 Snowflake Summit 2025 DE107
 
