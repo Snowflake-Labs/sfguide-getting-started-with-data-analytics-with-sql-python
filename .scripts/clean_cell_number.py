@@ -1,6 +1,6 @@
 import glob
 import json
-filelist = glob.glob("../*.ipynb")
+filelist = glob.glob("*.ipynb")
 for filename in filelist: 
     notebooks = json.load(open(filename,'r'))
     i=1
